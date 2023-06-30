@@ -7,6 +7,8 @@ This repository contains a Power Bi dashboard of IBM Employee Attrition to answe
 ## Screenshot
 
 ![dashboard](https://github.com/avishek09/IBM-HR-Analytics/assets/75924699/ceba678a-f66e-4c9c-94ed-9897c14eaf28)
+![insights](https://github.com/avishek09/IBM-HR-Analytics/assets/75924699/b33df4be-6244-4335-91fc-075e77a4a935)
+![recommendations](https://github.com/avishek09/IBM-HR-Analytics/assets/75924699/c88a0017-19e9-43ab-a3c8-1067852ca901)
 
 ## Installation
 
