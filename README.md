@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains a Power Bi dashboard of IBM Employee Attrition to answer questions about the data. The insights of the dashboard can be found in the <a href="https://github.com/avishek09/IBM-HR-Analytics/blob/main/results.txt">results.txt</a> file.  This repository can be used as a starting point for anyone who wants to learn how to use Power Bi to analyze data.
+This repository contains a Power Bi dashboard of IBM Employee Attrition to answer questions about the data. The insights of the dashboard can be found in the results file.  This repository can be used as a starting point for anyone who wants to learn how to use Power Bi to analyze data.
 
 ## Screenshot
 
@@ -32,9 +32,9 @@ This dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/pavansu
 * Created an interactive dashboard to analyze employee performance and attrition.
 * Used complex parameters to drill down in worksheet and customization using filters and slicers.
 * Created columns using complex DAX queries, did calculations to manipulate data and enabled user-driven parameters for visualization.
-* Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
+* Used different types of customized visualization (bar chart, clustered bar chart, line chart, area chart, matrix table, slicers, KPIs etc)
 * Generated insights and recommendations based on the analysis on how to improve employee retention.
 
 ## Conclusion
 
-The project was successful in answering the set of questions about an Employee's performance and attrition patterns. The results of the project can be found in result.txt file.
+The project was successful in answering the set of questions about an Employee's performance and attrition patterns. The results of the project can be found in the <a href="https://github.com/avishek09/IBM-HR-Analytics/blob/main/results.txt">results.txt</a> file.
